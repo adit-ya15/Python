@@ -30,6 +30,11 @@
 
 # game(choice)
 
+#IMPROVEMENT IN ABOVE CODE
+# Always remember that not use recursion in game
+# No input validation
+# Case-sensitive bug 
+
 import random
 
 choices = ["Water", "Gun", "Snake"]
